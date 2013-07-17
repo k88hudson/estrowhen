@@ -1,0 +1,6 @@
+{
+    "port": 6868,
+    "session_secret": "secret",
+    "session_cookie": "session",
+    "debug": true
+}
